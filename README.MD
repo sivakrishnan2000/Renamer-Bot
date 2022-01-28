@@ -8,7 +8,7 @@ Please fork this repository don't import code
 Made with Python3
 (C) @TheTeleRoid
 Copyright permission under GNU General Public License v3.0
-License -> https://github.com/PredatorHackerzZ/RENAMER-BOT/blob/master/LICENSE
+License -> https://github.com/sivakrishnan2000/Renamer-Bot/blob/master/LICENSE
 ```
 
 ### Variables
